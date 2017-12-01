@@ -1,0 +1,14 @@
+{
+    "nome": "Gabriel",
+    "email": "gabriel@gabriel.com.br",
+    "cursos": [
+        {
+            "nome": "Python",
+            "id": 520
+        },
+        {
+            "nome": "Linux",
+            "id": 450
+        }
+    ]
+}

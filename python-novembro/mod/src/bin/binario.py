@@ -1,0 +1,2 @@
+def binario():
+    print('BINARIO')
