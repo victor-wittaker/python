@@ -1,0 +1,262 @@
+[
+    {
+        "Atleta": {
+            "atleta_id": 74271,
+            "nome": "Edigar Junio Teixeira Lima ",
+            "apelido": "Edigar Junio",
+            "foto": "https://s.glbimg.com/es/sde/f/2017/07/28/8fb3bca6fb3b7df0b863748403f1b763_FORMATO.png",
+            "preco_editorial": 5
+        },
+        "escalacoes": 1385159,
+        "clube": "BAH",
+        "escudo_clube": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/bahia_60x60.png",
+        "posicao": "Atacante"
+    },
+    {
+        "Atleta": {
+            "atleta_id": 38277,
+            "nome": "Thiago Neves Augusto",
+            "apelido": "Thiago Neves",
+            "foto": "https://s.glbimg.com/es/sde/f/2017/02/19/6bb6e70216d205ad23e44268eba27692_FORMATO.png",
+            "preco_editorial": 20
+        },
+        "escalacoes": 1237690,
+        "clube": "CRU",
+        "escudo_clube": "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_65.png",
+        "posicao": "Meia"
+    },
+    {
+        "Atleta": {
+            "atleta_id": 85241,
+            "nome": "Yerry Fernando Mina González",
+            "apelido": "Yerry Mina",
+            "foto": "https://s.glbimg.com/es/sde/f/2017/04/18/5d127fbc9c3d26f69de26952da18b809_FORMATO.png",
+            "preco_editorial": 18
+        },
+        "escalacoes": 1126586,
+        "clube": "PAL",
+        "escudo_clube": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/palmeiras_60x60.png",
+        "posicao": "Zagueiro"
+    },
+    {
+        "Atleta": {
+            "atleta_id": 68920,
+            "nome": "Eduardo Pereira Rodrigues",
+            "apelido": "Dudu",
+            "foto": "https://s.glbimg.com/es/sde/f/2017/04/18/5268d6ef98c67a25b1dabf90d489a37f_FORMATO.png",
+            "preco_editorial": 24
+        },
+        "escalacoes": 1045004,
+        "clube": "PAL",
+        "escudo_clube": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/palmeiras_60x60.png",
+        "posicao": "Atacante"
+    },
+    {
+        "Atleta": {
+            "atleta_id": 82455,
+            "nome": "José Rafael Vivian",
+            "apelido": "Zé Rafael ",
+            "foto": "https://s.glbimg.com/es/sde/f/2017/07/28/ec8b41ce26f473fab0f1e1de432cc88f_FORMATO.png",
+            "preco_editorial": 5
+        },
+        "escalacoes": 1018338,
+        "clube": "BAH",
+        "escudo_clube": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/bahia_60x60.png",
+        "posicao": "Meia"
+    },
+    {
+        "Atleta": {
+            "atleta_id": 38138,
+            "nome": "João Alves de Assis Silva",
+            "apelido": "Jô",
+            "foto": "https://s.glbimg.com/es/sde/f/2017/04/23/013b2879d66c81bb0e92137fdfe045a8_FORMATO.png",
+            "preco_editorial": 5
+        },
+        "escalacoes": 1012691,
+        "clube": "COR",
+        "escudo_clube": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/corinthians_60x60.png",
+        "posicao": "Atacante"
+    },
+    {
+        "Atleta": {
+            "atleta_id": 63158,
+            "nome": "Moisés Lima Magalhães",
+            "apelido": "Moisés",
+            "foto": "https://s.glbimg.com/es/sde/f/2017/04/18/a2b616905dc5f0c3eddcfafd4814e2d9_FORMATO.png",
+            "preco_editorial": 10
+        },
+        "escalacoes": 986577,
+        "clube": "PAL",
+        "escudo_clube": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/palmeiras_60x60.png",
+        "posicao": "Meia"
+    },
+    {
+        "Atleta": {
+            "atleta_id": 87887,
+            "nome": "Fabián Cornelio Balbuena González",
+            "apelido": "Balbuena",
+            "foto": "https://s.glbimg.com/es/sde/f/2017/04/19/104f0248fd96daefe11d16e064dd8ce9_FORMATO.png",
+            "preco_editorial": 8
+        },
+        "escalacoes": 929654,
+        "clube": "COR",
+        "escudo_clube": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/corinthians_60x60.png",
+        "posicao": "Zagueiro"
+    },
+    {
+        "Atleta": {
+            "atleta_id": 81905,
+            "nome": "José Henrique da Silva Dourado",
+            "apelido": "Henrique Dourado",
+            "foto": "https://s.glbimg.com/es/sde/f/2017/07/25/74fe5365c7b46c57003665b15a0d770a_FORMATO.png",
+            "preco_editorial": 8
+        },
+        "escalacoes": 787030,
+        "clube": "FLU",
+        "escudo_clube": "https://s.glbimg.com/es/sde/f/equipes/2015/07/21/fluminense_60x60.png",
+        "posicao": "Atacante"
+    },
+    {
+        "Atleta": {
+            "atleta_id": 51700,
+            "nome": "Thiago Carleto Alves",
+            "apelido": "Thiago Carleto",
+            "foto": "https://s.glbimg.com/es/sde/f/2017/05/15/e78cf3d6b6820ad71b0335abf0a64a0b_FORMATO.png",
+            "preco_editorial": 4
+        },
+        "escalacoes": 763302,
+        "clube": "COR",
+        "escudo_clube": "https://s.glbimg.com/es/sde/f/equipes/2017/03/27/coritiba65.png",
+        "posicao": "Lateral"
+    },
+    {
+        "Atleta": {
+            "atleta_id": 73281,
+            "nome": "Renê dos Santos Júnior",
+            "apelido": "Renê Júnior",
+            "foto": "https://s.glbimg.com/es/sde/f/2017/07/28/d023203cea9f86b7e0c359ac86f97d9e_FORMATO.png",
+            "preco_editorial": 6
+        },
+        "escalacoes": 749127,
+        "clube": "BAH",
+        "escudo_clube": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/bahia_60x60.png",
+        "posicao": "Meia"
+    },
+    {
+        "Atleta": {
+            "atleta_id": 90031,
+            "nome": "John Stiven Mendoza Valencia",
+            "apelido": "Mendoza",
+            "foto": "https://s.glbimg.com/es/sde/f/2017/07/28/3526a1e303bf419c36b347c3684a027f_FORMATO.png",
+            "preco_editorial": 2
+        },
+        "escalacoes": 622832,
+        "clube": "BAH",
+        "escudo_clube": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/bahia_60x60.png",
+        "posicao": "Atacante"
+    },
+    {
+        "Atleta": {
+            "atleta_id": 87999,
+            "nome": "Gustavo Henrique Furtado Scarpa",
+            "apelido": "Gustavo Scarpa",
+            "foto": "https://s.glbimg.com/es/sde/f/2017/07/25/d139933474f638abe42c53dcd21a981b_FORMATO.png",
+            "preco_editorial": 20
+        },
+        "escalacoes": 604380,
+        "clube": "FLU",
+        "escudo_clube": "https://s.glbimg.com/es/sde/f/equipes/2015/07/21/fluminense_60x60.png",
+        "posicao": "Meia"
+    },
+    {
+        "Atleta": {
+            "atleta_id": 38909,
+            "nome": "Diego Ribas da Cunha",
+            "apelido": "Diego",
+            "foto": "https://s.glbimg.com/es/sde/f/2017/08/16/3ba372d90926f839c71eb2bf7160fc95_FORMATO.jpeg",
+            "preco_editorial": 25
+        },
+        "escalacoes": 539253,
+        "clube": "FLA",
+        "escudo_clube": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/flamengo_60x60.png",
+        "posicao": "Meia"
+    },
+    {
+        "Atleta": {
+            "atleta_id": 92702,
+            "nome": "Daniel Pollo Barioni",
+            "apelido": "Daniel Paulista",
+            "foto": "https://s.glbimg.com/es/sde/f/2016/10/20/0d4249af96be564e80556994f2f1c194_FORMATO.png",
+            "preco_editorial": 2.15
+        },
+        "escalacoes": 530684,
+        "clube": "SPO",
+        "escudo_clube": "https://s.glbimg.com/es/sde/f/equipes/2015/07/21/sport65.png",
+        "posicao": "Técnico"
+    },
+    {
+        "Atleta": {
+            "atleta_id": 68808,
+            "nome": "Severino do Ramo Clementino da Silva",
+            "apelido": "Nino Paraíba",
+            "foto": "https://s.glbimg.com/es/sde/f/2017/05/02/d14ab91bfca642dc286aec9f19adea15_FORMATO.png",
+            "preco_editorial": 7
+        },
+        "escalacoes": 479924,
+        "clube": "PON",
+        "escudo_clube": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/ponte_preta_60x60.png",
+        "posicao": "Lateral"
+    },
+    {
+        "Atleta": {
+            "atleta_id": 87228,
+            "nome": "Guilherme Antonio Arana Lopes",
+            "apelido": "Guilherme Arana",
+            "foto": "https://s.glbimg.com/es/sde/f/2017/04/23/a4d7cefcde751da5dcf52b042baafbb5_FORMATO.png",
+            "preco_editorial": 6
+        },
+        "escalacoes": 452406,
+        "clube": "COR",
+        "escudo_clube": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/corinthians_60x60.png",
+        "posicao": "Lateral"
+    },
+    {
+        "Atleta": {
+            "atleta_id": 90933,
+            "nome": "Jean Paulo Fernandes Filho",
+            "apelido": "Jean",
+            "foto": "https://s.glbimg.com/es/sde/f/2017/07/28/d36fdad47b0813c57a2b46c71ec4af32_FORMATO.png",
+            "preco_editorial": 7
+        },
+        "escalacoes": 422808,
+        "clube": "BAH",
+        "escudo_clube": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/bahia_60x60.png",
+        "posicao": "Goleiro"
+    },
+    {
+        "Atleta": {
+            "atleta_id": 61149,
+            "nome": "Lucca Borges Brito",
+            "apelido": "Lucca",
+            "foto": "https://s.glbimg.com/es/sde/f/2017/05/02/bd59d7bbf1fff0ce2e2dd4b489c5c99a_FORMATO.png",
+            "preco_editorial": 7
+        },
+        "escalacoes": 412964,
+        "clube": "PON",
+        "escudo_clube": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/ponte_preta_60x60.png",
+        "posicao": "Atacante"
+    },
+    {
+        "Atleta": {
+            "atleta_id": 83048,
+            "nome": "Rafael Thyere Albuquerque Marques",
+            "apelido": "Rafael Thyere",
+            "foto": "https://s.glbimg.com/es/sde/f/2017/04/23/e94d073bb6cefa100cd1ed8d0f8a6291_FORMATO.png",
+            "preco_editorial": 4
+        },
+        "escalacoes": 411945,
+        "clube": "GRE",
+        "escudo_clube": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/gremio_60x60.png",
+        "posicao": "Zagueiro"
+    }
+]

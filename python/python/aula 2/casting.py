@@ -1,0 +1,5 @@
+print(type(int("4"))
+print(type(str(1)))
+print(type(tuple('a', 'b', 'c')))
+print(bool(''))
+print(set(['a', 'b', 'c', 'a']))
